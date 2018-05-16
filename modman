@@ -1,0 +1,3 @@
+app/etc/modules/Zou_Alipay.xml app/etc/modules/Zou_Alipay.xml
+app/code/community/Zou/Alipay/* app/code/community/Zou/Alipay/
+app/design/frontend/base/default/template/alipay/* app/design/frontend/base/default/template/alipay/
